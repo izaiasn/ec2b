@@ -1,0 +1,14 @@
+para a execução do projeto sera necessario:
+dois aplicativos: passageiro/motorista
+um programa web para consultas, configuracoes, cadastro dos passageiros e motoristas parceiros, ajuda ao usuario.
+para execusao do projeto no aplicativo passageiro sera necessario, cadastro do passageiro com dados pessoais e foto do rosto, cadastro de forma de pagamento, cadastro de acesso
+o funcionamento dos software consiste levar o passageiro do ponto de origem ao ponto de destino utilizando o aplicativo de passageiros, onde o aplicativo utiliza recursos do 
+smartphone para obter a geo-localização do usuario, afim de definir o ponto de origem
+
+para execusao do projeto o aplicativo do motorista sera necessario, cadastro do motorista parceiro com dados pessoais, cadastro de acesso, cadastro e analise da CNH
+analise de atestado antecedentes, cadastro e analise de documentacao do carro voador, cadastro de dados bancario para recebimento das viagens realizadas
+para a execução do projeto no programa web sera necessario auteticação do usuario, acesso as consultas de viagens realizadas, faturamento,gastos, avaliação motorista/passageiro.
+ 
+
+
+
